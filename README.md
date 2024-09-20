@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Me guata la informatica
 <!--
 **Lucas-C15/Lucas-C15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
